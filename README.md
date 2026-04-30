@@ -45,7 +45,6 @@ Alan AI: Hybrid RL + Cognitive Architecture (v2) 🧠🤖
 
   You can toggle between Autonomous (AI) and Manual (Player) modes.
 
-  ┌────────────┬───────────────────────────────────┐
   │ Key        │ Action                            │
   ├────────────┼───────────────────────────────────┤
   │ A          │ Toggle Autonomous Brain (AI Mode) │
@@ -57,7 +56,7 @@ Alan AI: Hybrid RL + Cognitive Architecture (v2) 🧠🤖
   │ 1, 2, 3, 4 │ Simulation Speed (0.5x to 4x)     │
   │ D          │ Toggle Debug Overlay              │
   │ P          │ Pause / Resume                    │
-  └────────────┴───────────────────────────────────┘
+ 
   ---
 
   🛠️ Tech Stack
