@@ -42,21 +42,12 @@ Alan AI: Hybrid RL + Cognitive Architecture (v2) 🧠🤖
   ---
 
   🎮 Controls
-
-  You can toggle between Autonomous (AI) and Manual (Player) modes.
-
-  │ Key        │ Action                            │
-  ├────────────┼───────────────────────────────────┤
-  │ A          │ Toggle Autonomous Brain (AI Mode) │
-  │ ← / →      │ Move Left / Right                 │
-  │ ↑ / Space  │ Jump                              │
-  │ C          │ Crouch                            │
-  │ G / T      │ Grab / Throw Object               │
-  │ S / Z      │ Sit / Sleep                       │
-  │ 1, 2, 3, 4 │ Simulation Speed (0.5x to 4x)     │
-  │ D          │ Toggle Debug Overlay              │
-  │ P          │ Pause / Resume                    │
- 
+  Controls
+   * AI Mode: Press A to toggle between Manual and AI control.
+   * Movement: Use Arrow Keys or Space to walk and jump.
+   * Interaction: G to grab/release, T to throw, and C to crouch.
+   * Survival: X to eat food, S to sit on the bench, and Z to sleep.
+   * System: 1-4 to change speed, P to pause, and D for debug info.
   ---
 
   🛠️ Tech Stack
